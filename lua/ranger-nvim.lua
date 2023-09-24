@@ -32,10 +32,6 @@ local opts = {
 	enable_cmds = false,
 	replace_netrw = false,
 	keybinds = {
-		["ov"] = M.OPEN_MODE.vsplit,
-		["oh"] = M.OPEN_MODE.split,
-		["ot"] = M.OPEN_MODE.tabedit,
-		["or"] = M.OPEN_MODE.rifle,
 	},
 	ui = {
 		border = "none",
